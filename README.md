@@ -4,18 +4,21 @@
 
 <hr>
 
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Sobre mim</h2>
-<p align="left">
-<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Meu nome é <strong>Guilherme Vieira</strong>, sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre busco aprimorar minhas habilidades e aplicar as melhores práticas em meus projetos. Confira no meu perfil alguns dos trabalhos que já realizei e as tecnologias que domino!
-</p>
-
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">About me</h2>
-<p align="left">
-<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> My name is <strong>Guilherme Vieira</strong>, and I am a back-end developer passionate about technology and programming. Always looking to improve my skills and apply best practices to my projects. Check out my profile to see some of the work I've done and the technologies I master!
-</p>
+<p>👨‍💻 Software Developer 
+<p>🎓 Software Engineering student at <a href="https://www.ucsal.br/" target="blank_">Ucsal</a></p>
+<p>📍 Based in Salvador, Brazil</p>
+<p>🛠️ Passionate about Back-end Developer, Data & AI</p>
+<p>🌍 English Level: A2 (Upper Intermediate)</p>
 
 <hr>
+<br>
+<p align="left">
+<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Desenvolvedor back-end sempre buscando aprimorar as minhas habilidades e aplicar as melhores práticas em meus projetos. </p>
 
+<p align="left">
+<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Back-end developer always seeking to improve my skills and apply the best practices in my projects.<p>
+
+<hr>
 <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Conecte-se comigo</h2>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gv524003@gmail.com)
