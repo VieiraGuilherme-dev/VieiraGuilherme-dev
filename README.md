@@ -10,6 +10,14 @@
 <p>🛠️ Passionate about Back-end Developer, Data & AI</p>
 <p>🌍 English Level: A2 (Upper Intermediate)</p>
 
+<hr>
+<br>
+<p align="left">
+<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/512px-Brazilian_flag_icon_round.svg.png?20180509193906" /> Desenvolvedor back-end sempre buscando aprimorar as minhas habilidades e aplicar as melhores práticas em meus projetos. </p>
+
+<p align="left">
+<img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Back-end developer always seeking to improve my skills and apply the best practices in my projects.<p>
+
 
 <hr>
 <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Conecte-se comigo</h2>
