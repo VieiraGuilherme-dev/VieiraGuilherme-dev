@@ -1,5 +1,5 @@
 
-<p>👨‍💻 Software Developer 
+<p>👨‍💻 Software Engineer
 <p>🎓 Software Engineering student at <a href="https://www.ucsal.br/" target="blank_">Ucsal</a></p>
 <p>📍 Based in Salvador, Brazil</p>
 <p>🛠️ Passionate about Back-end Developer, Data & AI</p>
