@@ -14,14 +14,11 @@
 <img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Back-end developer always seeking to improve my skills and apply the best practices in my projects.<p>
 
 
-
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Linguagens e Tecnologias</h2>
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,postgres,mysql,git,postman,mongodb,docker)](https://skillicons.dev)
 
 <hr>
-
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">IDE e Ferramentas</h2>
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,figma,notion)](https://skillicons.dev)
 
