@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=35&pause=1000&color=F7F7F7&width=600&lines=Olá,+Seja+bem-vindo!;Welcome+to+my+GitHub!" />
-</p>
-
-<hr>
 
 <p>👨‍💻 Software Developer 
 <p>🎓 Software Engineering student at <a href="https://www.ucsal.br/" target="blank_">Ucsal</a></p>
@@ -19,13 +14,6 @@
 <img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Back-end developer always seeking to improve my skills and apply the best practices in my projects.<p>
 
 
-<hr>
-<h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Conecte-se comigo</h2>
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gv524003@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-vieira-0a3902322/)
-
-<hr>
 
 <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Linguagens e Tecnologias</h2>
 
