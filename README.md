@@ -13,10 +13,10 @@
 <p align="left">
 <img width="15" height="15" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/512px-United-states_flag_icon_round.svg.png" /> Back-end developer always seeking to improve my skills and apply the best practices in my projects.<p>
 
-
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,postgres,mysql,git,postman,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,js,java,spring,postgres,mysql,git,postman,mongodb,docker,heroku)](https://skillicons.dev)
+
 
 <hr>
 
