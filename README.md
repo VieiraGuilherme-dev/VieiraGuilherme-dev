@@ -2,7 +2,7 @@
 <p>👨‍💻 Software Engineer
 <p>🎓 Software Engineering student at <a href="https://www.ucsal.br/" target="blank_">Ucsal</a></p>
 <p>📍 Based in Salvador, Brazil</p>
-<p>🛠️ Passionate about Back-end Developer, Data & AI</p>
+<p>🛠️ Passionate about Back-end Developer & Data </p>
 <p>🌍 English Level: A2 (Upper Intermediate)</p>
 
 <hr>
