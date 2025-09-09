@@ -1,4 +1,3 @@
-
 <p>👨‍💻 Software Engineer
 <p>🎓 Software Engineering student at <a href="https://www.ucsal.br/" target="blank_">Ucsal</a></p>
 <p>📍 Based in Salvador, Brazil</p>
@@ -25,11 +24,13 @@
 <hr>
 <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Estatísticas</h2>
 
-<!-- Card com linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGuilherme-dev&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
-<!-- Contribution Grid (animação da cobra) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGuilherme-dev&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VieiraGuilherme-dev&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats" />
+</div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RecheEduardo/RecheEduardo/output/github-contribution-grid-snake.svg" />
 </picture>
