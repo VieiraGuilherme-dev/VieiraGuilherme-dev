@@ -13,7 +13,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,spring,postgres,mysql,git,postman,mongodb,docker,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring,postgres,mysql,postman,mongodb,docker,heroku)](https://skillicons.dev)
 
 
 <hr>
