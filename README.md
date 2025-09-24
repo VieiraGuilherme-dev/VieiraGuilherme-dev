@@ -15,7 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,spring,postgres,mysql,postman,mongodb,docker,heroku)](https://skillicons.dev)
 
-
 <hr>
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,eclipse,idea,figma,notion)](https://skillicons.dev)
