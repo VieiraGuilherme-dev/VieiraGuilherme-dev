@@ -28,4 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VieiraGuilherme-dev&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats" />
 </div>
 
-
