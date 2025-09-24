@@ -27,4 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGuilherme-dev&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=VieiraGuilherme-dev&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats" />
 </div>
-
