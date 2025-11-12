@@ -8,7 +8,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,spring,nodejs,react,postgres,postman,mysql,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring,react,postgres,postman,mysql,mongodb,docker)](https://skillicons.dev)
 
 
 <h2 style="font-family: 'Segoe UI', sans-serif; font-weight: 700;">Estatísticas</h2>
